@@ -1,0 +1,1 @@
+This project aims to develop a machine learning model to predict the likelihood of Autism Spectrum Disorder (ASD) based on behavioral and demographic data. The goal is to provide a supportive tool that can assist healthcare professionals and researchers in early autism detection and awareness.
